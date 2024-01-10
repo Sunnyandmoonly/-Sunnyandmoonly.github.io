@@ -23,10 +23,10 @@
 .theme-dark {
   /* BGs */
   --background-primary: #000000;
-  --background-secondary: #131416;
+  --background-secondary: #000000;
   --background-secondary-alt: #000000;
-  --background-secondary-alt-alt: #0e0f16;
-  --background-tertiary: #060c24;
+  --background-secondary-alt-alt: #000000;
+  --background-tertiary: #000000;
 
   --deprecated-store-bg: var(--background-primary);
   --background-floating: var(--background-secondary);
