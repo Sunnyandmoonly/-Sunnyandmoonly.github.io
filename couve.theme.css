@@ -35,10 +35,10 @@
   --input-background: var(--background-secondary);
   --modal-background: var(--background-primary);
 
-  --colortransparency: #0003;
+  --colortransparency: rgb(0, 0, 0);
 
   /* Cards */
-  --card: #212332;
+  --card: #000000;
 
   /* Other stuff */
   --textcolor: #fff;
